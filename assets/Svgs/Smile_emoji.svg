@@ -1,0 +1,64 @@
+<svg id="Component_106_1" data-name="Component 106 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.268" height="165.979" viewBox="0 0 304.268 165.979">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3965" data-name="Rectangle 3965" width="78.782" height="78.78" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_40468" data-name="Path 40468" d="M39.392,0a39.39,39.39,0,1,0,39.39,39.39A39.39,39.39,0,0,0,39.392,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffeb00"/>
+      <stop offset="1" stop-color="#ffb53e"/>
+    </linearGradient>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_3962" data-name="Rectangle 3962" width="15.77" height="15.77" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_3963" data-name="Rectangle 3963" width="15.771" height="15.77" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_105_1" data-name="Component 105 – 1">
+    <path id="Polygon_1" data-name="Polygon 1" d="M3.338.76a.5.5,0,0,1,.868,0l2.91,5.093a.5.5,0,0,1-.434.748H.862a.5.5,0,0,1-.434-.748Z" transform="translate(272.317 126.399) rotate(162)" fill="#ffda88"/>
+    <circle id="Ellipse_78" data-name="Ellipse 78" cx="3.3" cy="3.3" r="3.3" transform="translate(0 107.799)" fill="#55cdfa"/>
+    <rect id="Rectangle_2864" data-name="Rectangle 2864" width="6.601" height="6.601" transform="translate(87.653 42.252) rotate(-70)" fill="#2fe3c4"/>
+    <path id="Path_8298" data-name="Path 8298" d="M0,5.914,5.842,0" transform="matrix(0.995, 0.105, -0.105, 0.995, 35.149, 141.282)" fill="none" stroke="#ff8c5c" stroke-width="4"/>
+    <rect id="Rectangle_2865" data-name="Rectangle 2865" width="6.601" height="6.601" transform="translate(298.671 84.727) rotate(-122)" fill="#55cdfa"/>
+    <path id="Path_8299" data-name="Path 8299" d="M0,5.914,5.842,0" transform="translate(214.068 60.524) rotate(92)" fill="none" stroke="#ffda88" stroke-width="4"/>
+    <circle id="Ellipse_79" data-name="Ellipse 79" cx="3.3" cy="3.3" r="3.3" transform="translate(174.766)" fill="#2fe3c4"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M3.338.76a.5.5,0,0,1,.868,0l2.91,5.093a.5.5,0,0,1-.434.748H.862a.5.5,0,0,1-.434-.748Z" transform="matrix(-0.921, 0.391, -0.391, -0.921, 232.477, 163.031)" fill="#ff8c5c"/>
+    <rect id="Rectangle_2866" data-name="Rectangle 2866" width="6.601" height="6.601" transform="translate(20.64 74.349) rotate(-47)" fill="#ffda88"/>
+    <path id="Path_8300" data-name="Path 8300" d="M0,5.914,5.842,0" transform="translate(26.511 32.319) rotate(-97)" fill="none" stroke="#55cdfa" stroke-width="4"/>
+    <circle id="Ellipse_80" data-name="Ellipse 80" cx="3.3" cy="3.3" r="3.3" transform="translate(278.582 38.389)" fill="#ff8c5c"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M3.338.76a.5.5,0,0,1,.868,0l2.91,5.093a.5.5,0,0,1-.434.748H.862a.5.5,0,0,1-.434-.748Z" transform="translate(128.384 145.711) rotate(39)" fill="#55cdfa"/>
+  </g>
+  <g id="Component_104_1" data-name="Component 104 – 1" transform="translate(108.877 11.728)">
+    <g id="Group_6786" data-name="Group 6786" clip-path="url(#clip-path)">
+      <g id="Group_6777" data-name="Group 6777">
+        <g id="Group_6776" data-name="Group 6776" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_3961" data-name="Rectangle 3961" width="111.413" height="111.413" transform="translate(-39.39 39.39) rotate(-45)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_6785" data-name="Group 6785">
+        <g id="Group_6784" data-name="Group 6784" clip-path="url(#clip-path)">
+          <path id="Path_40469" data-name="Path 40469" d="M79.432,52.678c.909-2.265,2.6-4.631,5.261-4.73,2.679-.1,4.427,2.742,5.261,4.9.836,2.171,4.365,1.228,3.516-.97-1.512-3.917-4.278-7.407-8.777-7.576-4.374-.163-7.327,3.794-8.777,7.408-.879,2.184,2.652,3.126,3.516.97" transform="translate(-25.121 -14.685)" fill="#542a18"/>
+          <path id="Path_40470" data-name="Path 40470" d="M19.067,52.678c.91-2.265,2.6-4.631,5.26-4.73,2.678-.1,4.428,2.742,5.261,4.9.838,2.171,4.365,1.228,3.516-.97-1.511-3.917-4.278-7.407-8.777-7.576-4.374-.163-7.326,3.794-8.777,7.408-.878,2.184,2.652,3.126,3.517.97" transform="translate(-5.109 -14.685)" fill="#542a18"/>
+          <g id="Group_6780" data-name="Group 6780" transform="translate(5.234 42.324)" opacity="0.3">
+            <g id="Group_6779" data-name="Group 6779">
+              <g id="Group_6778" data-name="Group 6778" clip-path="url(#clip-path-4)">
+                <path id="Path_40471" data-name="Path 40471" d="M23.6,71.2a7.885,7.885,0,1,1-7.885-7.885A7.885,7.885,0,0,1,23.6,71.2" transform="translate(-7.83 -63.314)" fill="#e43d09"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_6783" data-name="Group 6783" transform="translate(57.776 42.324)" opacity="0.3">
+            <g id="Group_6782" data-name="Group 6782">
+              <g id="Group_6781" data-name="Group 6781" clip-path="url(#clip-path-5)">
+                <path id="Path_40472" data-name="Path 40472" d="M102.2,71.2a7.886,7.886,0,1,1-7.885-7.885A7.884,7.884,0,0,1,102.2,71.2" transform="translate(-86.428 -63.314)" fill="#e43d09"/>
+              </g>
+            </g>
+          </g>
+          <path id="Path_40473" data-name="Path 40473" d="M39.874,70.085s11.987,15.112,25.472,0" transform="translate(-13.219 -23.234)" fill="none" stroke="#542a18" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
